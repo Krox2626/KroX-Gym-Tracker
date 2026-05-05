@@ -1,0 +1,14 @@
+{
+  "name": "KroX - Gym Tracker",
+  "short_name": "GymTracker",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icone.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
